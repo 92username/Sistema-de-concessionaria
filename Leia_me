@@ -1,0 +1,25 @@
+Funcionalidades
+
+- Cadastro de Veículos
+--- Inclui informações como marca, modelo, ano, cor, câmbio, categoria, valor, quilometragem e placa.
+
+- Cadastro de Clientes
+--- Registro de clientes com validação de CPF, nome e idade (somente maiores de 18 anos).
+
+- Cadastro de Vendedores
+--- Cadastro de vendedores, incluindo nome, idade, CPF, salário e cálculo de comissão.
+
+- Listagens
+--- Veículos: Exibe a lista completa dos veículos disponíveis.
+--- Vendedores: Mostra detalhes como salário, comissão e total a receber.
+--- Clientes: Apresenta todos os clientes cadastrados.
+--- Vendas: Lista todas as transações realizadas.
+
+- Efetuar Venda
+--- Registra a venda de um veículo, calcula automaticamente a comissão do vendedor (5% do valor do veículo) e remove o veículo vendido do sistema.
+
+- Pesquisa e Filtragem
+--- Permite pesquisar clientes pelo nome ou CPF.
+
+- Exclusão de Vendedores
+--- Possibilidade de deletar um vendedor após confirmação.
