@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 # Sistema de Concessionária
 
 Este é um sistema de gerenciamento para uma concessionária, que permite o cadastro de veículos, clientes, vendedores e a realização de vendas. O sistema foi desenvolvido em Python utilizando SQLAlchemy para a interação com o banco de dados SQLite.
